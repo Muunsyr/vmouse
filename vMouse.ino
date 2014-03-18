@@ -60,8 +60,6 @@ void moveMouse(){
   delay(3);
   // move mouse up
   Mouse.move(0, -10);
-  delay(3);
-  Mouse.move(0, -10);
 }
 
 void alert(){
